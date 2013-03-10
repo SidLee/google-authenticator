@@ -1,0 +1,25 @@
+{
+    "name": "SLT/GoogleAuthenticator",
+    "type": "library",
+    "description": "PHP implementation of the Google Authenticator Framework",
+    "minimum-stability": "stable",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Andrew Moore",
+            "email": "amoore@sidleetechnologies.com"
+        }
+    ],
+    "require": {
+        "php": ">=5.3.3",
+        "rych/otp": "dev-master"
+    },
+    "require-dev": {
+        "phpunit/phpunit": "*"
+    },
+    "autoload": {
+        "psr-0": {
+            "SLT\\GoogleAuthenticator": "src/"
+        }
+    }
+}

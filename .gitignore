@@ -1,0 +1,6 @@
+# Ignore PHP Storm
+.idea/
+
+# Ignore Composer Files
+vendor/
+composer.lock
