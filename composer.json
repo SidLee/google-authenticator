@@ -1,5 +1,5 @@
 {
-    "name": "SLT/GoogleAuthenticator",
+    "name": "slt/google-authenticator",
     "type": "library",
     "description": "PHP implementation of the Google Authenticator Framework",
     "minimum-stability": "stable",
